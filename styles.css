@@ -47,7 +47,7 @@ slide h3 {
   flex: 10;
 }
 
-.slide.activeh3 {
+.slide.active h3 {
   opacity: 1;
   transition: opacity 0.3s ease-in 0.4s;
 }
